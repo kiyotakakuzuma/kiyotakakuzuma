@@ -1,5 +1,6 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiyotakakuzuma&hide=contribs,prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiyotakakuzuma)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kiyotakakuzuma/kiyotakakuzuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
